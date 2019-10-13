@@ -5,8 +5,8 @@ Semana 9 - Introdução a Banco de Dados
 Nessa semana vamos entender o que é um banco de dados, aprender quais são os principais tipos de bancos de dados (Relacional e Não relacional). Vamos criar nosso primeiro banco de dados usando MongoDB, manipulando dados nele pela ferramenta Robo 3T e pela linha de comando. Depois vamos integrar nosso MongoDB ao nosso backend em NodeJS.
 
 ## Materiais
-- [Material de estudo](https://docs.google.com/document/d/17UNEPcgju71FXDFrr-RKt7ZdTRvTLwc_FGpaQVDL6wM/edit?usp=sharing)
-- [Guia de instalação](https://docs.google.com/document/d/1N7W0TJ9_PiGCJD6zpT2Bz6H8MZNQq4pTqV8PGpa6xpU/edit?usp=sharing)
+- [Material de estudo](https://docs.google.com/document/d/1J1ZdvbJQmacboAJDfVELzbeMvDi0P-oYrdBPTKFBEak/edit?usp=sharing)
+- [Guia de instalação](https://docs.google.com/document/d/1Wk7RcoRgqCUWSmCF_eO3DLUxd7X7DICBjmEqnsD7F0k/edit?usp=sharing)
 
 
 ## Links úteis
