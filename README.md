@@ -1,4 +1,4 @@
-# n3-intro-banco-de-dados
+# N3 | Semana 9 | Backend | Introdução a Banco de Dados
 Semana 9 - Introdução a Banco de Dados
 
 ## Objetivo
