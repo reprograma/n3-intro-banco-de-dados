@@ -16,12 +16,12 @@ Nessa semana vamos entender o que é um banco de dados, aprender quais são os p
 
 ## Recaptulando
 ### Segunda-feira
-Aprendemos a diferença entre banco relacional e nao relacional 
-Relacional é por tabelas, linhas e colunas, é bem estruturado
-Não-Relacional é com collections com documentos, que sao BSON (é parecido com JSON)
-Fizemos cadastros no MongoDB com todos os tipos primitivos (int, null, array, boolean, objeto, string, ISODate, ObjectId), usando o Robo 3T
-Fizemos consultas usando os metodos count(), find(), podendo passar um filtro
-Removemos documentos do banco usando os metodos remove() e deleteOne(), que tambem aceitam filtro
+- Aprendemos a diferença entre banco relacional e nao relacional 
+- Relacional é por tabelas, linhas e colunas, é bem estruturado
+- Não-Relacional é com collections com documentos, que sao BSON (é parecido com JSON)
+- Fizemos cadastros no MongoDB com todos os tipos primitivos (int, null, array, boolean, objeto, string, ISODate, ObjectId), usando o Robo 3T
+- Fizemos consultas usando os metodos count(), find(), podendo passar um filtro
+- Removemos documentos do banco usando os metodos remove() e deleteOne(), que tambem aceitam filtro
 
 ### Terça-feira
 ### Quarta-feira
