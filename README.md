@@ -24,6 +24,14 @@ Nessa semana vamos entender o que é um banco de dados, aprender quais são os p
 - Removemos documentos do banco usando os metodos remove() e deleteOne(), que tambem aceitam filtro
 
 ### Terça-feira
+- Mexemos no mongodb via linha de comando
+- Usamos os comandos gerais na linha comando, que são:
+-- show dbs
+-- use reprograma
+-- db.aluna.COMANDO()
+-- find, count, pretty, insert, insertMany,
+-- aprendemos a filtrar com OR, AND, IN, LIKE(regex)
+
 ### Quarta-feira
 ### Quinta-feira
 ### Sexta-feira
