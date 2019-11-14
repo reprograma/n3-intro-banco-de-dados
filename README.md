@@ -33,5 +33,10 @@ Nessa semana vamos entender o que é um banco de dados, aprender quais são os p
 -- aprendemos a filtrar com OR, AND, IN, LIKE(regex)
 
 ### Quarta-feira
+- usamos $gt(maior que) e $lt(menor que) pra filtrar numeros
+- usamos mongoimport pra importar uma planilha pro nosso banco
+- usamos o metodo update() pra atualizar dados no banco, LEMBRANDO do $set pra nao apagar os dados antigos
+- usamos o metodo remove() para apagar documentos do nosso banco
 ### Quinta-feira
 ### Sexta-feira
+- FERIADO
