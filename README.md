@@ -12,6 +12,7 @@ Nessa semana vamos entender o que é um banco de dados, aprender quais são os p
 ## Links úteis
 - [Nosso documento para compartilhar links ao vivo](https://docs.google.com/document/d/1CBczfWpVl6glTQE2qKLPHsLNHTyyeTcdG-Guo_NdYFw/edit#)
 - [Documentação MongoDB](https://docs.mongodb.com/manual/crud/)
+- [Link com a resolução de alguns exercícios, fornecidos pela amiga Ana Paula :)](https://docs.google.com/document/d/1CWBWO3ZQ7QOhoA3nZr9oHNw-veVTXcxluTMlhpqfyho/edit)
 
 
 ## Recaptulando
